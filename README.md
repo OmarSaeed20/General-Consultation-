@@ -1,7 +1,7 @@
 # General Consultation
 
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="logo.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
 </picture>
 
 ## 📢  Pages
