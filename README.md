@@ -14,6 +14,26 @@ View the pages on Google Drive.
 ## 📢  Authentication pages
 
 
+| Page | View |
+| --- | --- |
+| Register | <details>
+<summary>Register</summary>
+  
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/register.jpg">
+</picture>
+
+</details> |
+| verify email | <details>
+<summary>Verify email</summary>
+  
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/verify email.jpg">
+</picture>
+
+</details>
+ |
+
 <details>
 <summary>Register Section</summary>
 
