@@ -13,7 +13,8 @@ View the pages on Google Drive.
 
 ## 📢  Authentication pages
 
-| **Action** | **Image** |
+**| **Action** | **Image** |**
+:-----:
 |------------|-----------|
 | Register 1 | !image1 |
 | Register 2 | [General Consultation Pages](/assets/register.jpg) |
