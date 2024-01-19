@@ -13,11 +13,15 @@ View the pages on Google Drive.
 
 ## 📢  Authentication pages
 
-**| **Action** | **Image** |**
-:-----:
-|------------|-----------|
-| Register 1 | !image1 |
-| Register 2 | [General Consultation Pages](/assets/register.jpg) |
+{| class="wikitable" style="text-align: center;"
+!'''<nowiki>|</nowiki> **Action** | **Image** |'''
+|-
+|<nowiki>|</nowiki>------------|-----------|
+|-
+|<nowiki>|</nowiki> Register 1 | !image1 |
+|-
+|<nowiki>|</nowiki> Register 2 | [General Consultation Pages](/assets/register.jpg) |
+|}
 
 | Page | View |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------|
