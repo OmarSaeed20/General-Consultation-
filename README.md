@@ -15,7 +15,7 @@ View the pages on Google Drive.
 
 
 | Page | View |
-| --- | --- |
+|-----:|-----------|
 | Register | <details>
 <summary>Register</summary>
   
