@@ -4,6 +4,28 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
 </picture>
 
+## 📢  Authentication pages
+
+Register
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/register.jpg">
+</picture>
+
+Verify email
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/verify email.jpg">
+</picture>
+
+Login
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/login.jpg">
+</picture>
+
+Forget password
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/forget password.jpg">
+</picture>
+
 ## 📢  Pages
 >[General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
 
