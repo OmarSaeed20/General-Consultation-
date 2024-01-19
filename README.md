@@ -1,25 +1,35 @@
 # General Consultation
+
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
+</picture>
+
 <details>
 <summary>General Consultation Pages</summary>
 
 View the pages on Google Drive.
 
 </details>
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
-</picture>
 
 ## 📢  Authentication pages
 
-Register
+<details>
+<summary>Register</summary>
+  
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/register.jpg">
 </picture>
 
-Verify email
+</details>
+
+<details>
+<summary>Verify email</summary>
+  
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/verify email.jpg">
 </picture>
+
+</details>
 
 Login
 <picture>
