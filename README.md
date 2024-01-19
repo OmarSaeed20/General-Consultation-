@@ -272,47 +272,50 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
  ###  Authentication sections
 
+
+
+<details>
+<summary> Register </summary>
 <p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-
-<details>
-<summary> Register </summary>
-<p align="center">
-  <a href="" rel="noopener">
- <img width=375px height=812px src="https://i.imgur.com//assets/register.jpg" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."></a>
-</p>
-
 </details> 
 
-<details>
-<summary> Register </summary>
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/register.jpg">
-</picture>
-</details> 
- 
 <details>
 <summary> Verify Email</summary>
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/verify email.jpg">
-</picture>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/verify email" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
 </details>
 
 <details>
 <summary> Login </summary>
-<picture>
-  <img  src="assets/login.jpg">
-</picture>
-</details> 
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+</details>  
 
 <details>
 <summary> Forget Password </summary>
-<picture>
-  <img  src="assets/forget password.jpg">
-</picture>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+</details> 
+
+<details>
+<summary> Verify Email</summary>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/verify email" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+</details>
+
+<details>
+<summary> Reset Password </summary>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+</details> 
+
+<details>
+<summary> Home </summary>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+</details> 
+
+<details>
+<summary> Notifications </summary>
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
 </details> 
 
 ## Use
-- for handell API
+- for  API Integration
   ```
   - retrofit: ^3.0.1+1
   
