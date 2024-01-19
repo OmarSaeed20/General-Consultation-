@@ -148,12 +148,6 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
 </picture>
 
-## 📢  Authentication pages
-
-
-## 📢  Pages
-> [!TIP]
-> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
 
 ## 📢 Application Contents:
  
@@ -272,8 +266,19 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
   - retrofit_generator: ^4.0.3
 ```
 
-## General Consultation Pages
-### Authentication sections
+## 📢 General Consultation Pages
+### All Pages
+> [!TIP]
+> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
+ ###  Authentication sections
+<details>
+<summary> Register </summary>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=375px height=812px src="https://i.imgur.com//assets/register.jpg" alt="Bot logo"></a>
+</p>
+
+</details> 
 
 <details>
 <summary> Register </summary>
