@@ -1,5 +1,9 @@
 # General Consultation
 
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="logo.svg">
+</picture>
+
 ## 📢  Pages
 >[General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
 
@@ -27,6 +31,3 @@
 > [!IMPORTANT]
 >This project encompasses a robust set of features and technologies to deliver a comprehensive and engaging experience for users.
 
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="logo.svg">
-</picture>
