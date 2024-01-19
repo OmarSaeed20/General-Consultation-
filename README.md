@@ -275,7 +275,7 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 <summary> Register </summary>
 <p align="center">
   <a href="" rel="noopener">
- <img width=375px height=812px src="https://i.imgur.com//assets/register.jpg" alt="Bot logo"></a>
+ <img width=375px height=812px src="https://i.imgur.com//assets/register.jpg" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."></a>
 </p>
 
 </details> 
