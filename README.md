@@ -1,5 +1,10 @@
 # General Consultation
+<details>
+<summary>General Consultation Pages</summary>
 
+View the pages on Google Drive.
+
+</details>
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
 </picture>
