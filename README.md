@@ -27,7 +27,7 @@ Forget password
 </picture>
 
 ## 📢  Pages
-> [!NOTE]
+> [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
 
 ## 📢 Application Contents:
