@@ -271,6 +271,9 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 > [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
  ###  Authentication sections
+
+<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
+
 <details>
 <summary> Register </summary>
 <p align="center">
