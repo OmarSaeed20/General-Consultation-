@@ -27,12 +27,13 @@ Forget password
 </picture>
 
 ## 📢  Pages
->[General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
+> [!NOTE]
+> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
 
 ## 📢 Application Contents:
  
 
-> [!NOTE]
+
 * This project is a Realtime Chat application leveraging the power of Pusher. It provides a seamless chat experience with features like realtime messaging, pagination, photo sharing, wave records, and delightful animations.
 
 * The development tools used in this project include dio, retrofit, retrofit_generator, build_runner, freezed, freezed_annotation, and json_serializable. These tools enable efficient API integration and data serialization.
