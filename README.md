@@ -50,7 +50,7 @@
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view)
+[Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
 
 # 🎉 General Consultation <a name = "General Consultation"></a>
 <!-- 
@@ -175,49 +175,20 @@
 
   - retrofit_generator: ^4.0.3
 ```
-
 ## 📢 General Consultation Pages
 ### All Pages
 > [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
  ###  Authentication sections
 
-
-
-<details>
-<summary> Register </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details> 
-
-<details>
-<summary> Verify Email</summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/verify email" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details>
-
-<details>
-<summary> Login </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details>  
-
-<details>
-<summary> Forget Password </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details> 
-
-<details>
-<summary> Verify Email</summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/verify email" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details>
-
-<details>
-<summary> Reset Password </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details> 
-
-<details>
-<summary> Home </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details> 
+| 1 | 2 | 3 |
+| ----- | ----- | ----- |
+| Verify Email | Register | Login |
+| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Verify Email | Forget Password | Reset Password |
+| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | home |
+| <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | notifications |
 
 <details>
 <summary> Notifications </summary>
