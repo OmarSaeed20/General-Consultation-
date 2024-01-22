@@ -44,7 +44,7 @@
 
 [Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
 
-# 🎉 General Consultation <a name = "General Consultation"></a>
+# 🎉 General Consultation <a name = "General/Consultation"></a>
 
 ## 📢 General Consultation Pages
 ### All Pages
