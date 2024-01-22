@@ -28,15 +28,7 @@
 - [Demo / Working](#demo)
 - [Install / Dependence](#Install/Dependence)
 - [General Consultation](#General/Consultation)
-<!-- - [Authors](#authors) -->
-<!-- - [How it works](#working) -->
-<!-- - [Usage](#usage) -->
-<!-- - [Getting Started](#getting_started) -->
-<!-- - [Deploying your own bot](#deployment) -->
-<!-- - [Built Using](#built_using) -->
-<!-- - [TODO](../TODO.md) -->
-<!-- - [Contributing](../CONTRIBUTING.md) -->
-<!-- - [Acknowledgments](#acknowledgement) -->
+
 
 ## 🧐 About <a name = "about"></a>
 
@@ -53,6 +45,23 @@
 [Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
 
 # 🎉 General Consultation <a name = "General Consultation"></a>
+
+## 📢 General Consultation Pages
+### All Pages
+> [!TIP]
+> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
+ ###  Authentication sections
+
+| Verify Email | Register | Login |
+| ----- | ----- | ----- |
+| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Verify Email | Forget Password | Reset Password |
+| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| home | notifications | V |
+| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  |
+
+
+
 <!-- 
 <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
@@ -175,25 +184,6 @@
 
   - retrofit_generator: ^4.0.3
 ```
-## 📢 General Consultation Pages
-### All Pages
-> [!TIP]
-> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
- ###  Authentication sections
-
-| 1 | 2 | 3 |
-| ----- | ----- | ----- |
-| Verify Email | Register | Login |
-| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Verify Email | Forget Password | Reset Password |
-| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | home |
-| <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | notifications |
-
-<details>
-<summary> Notifications </summary>
-<p align="center"> <a href="" rel="noopener"> <img width=375px height=812px src="/assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."></a> </p>
-</details> 
 
 ## Use
 - for  API Integration
