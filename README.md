@@ -1,12 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="/assets/logo.svg" alt="Bot logo"></a>
+ <img width=330px height=330px src="/assets/logo.svg" alt="Bot logo"></a>
 </p>
 
 <h1 align="center">General Consultation</h1>
 <!-- ⛏️ 📝 🤖 🧐 🎥 💭 🏁 🚀 ✍️ 🎉 📢 🎈 -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
@@ -14,8 +14,8 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-</div>
-
+</div> 
+-->
 ---
 
 <!-- <p align="center"> 🤖 Few lines describing what your bot does.
@@ -24,13 +24,42 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
 - [Demo / Working](#demo)
+- [About](#about)
 - [Install / Dependence](#Install/Dependence)
+
+
+<!---##
 - [General Consultation](#General/Consultation)
+🧐 About <a name = "about"></a>
 
+* is an online platform that connects businesses with expert consultants in various fields. Whether you need advice on marketing, finance, strategy, or any other topic, you can find and hire a qualified consultant on General Consultation.
 
-## 🧐 About <a name = "about"></a>
+* offers different subscription plans for businesses and consultants. Businesses can choose from three plans: Basic, Premium, and Enterprise. Each plan gives access to a number of consulting hours per month, as well as other features such as priority support, unlimited projects, and analytics. Consultants can also choose from three plans: Starter, Professional, and Expert. Each plan determines the commission fee, the visibility on the platform, and the eligibility for special projects.
+
+* supports various payment methods, such as One Tap. Businesses can pay for their subscriptions and consulting services securely and conveniently through the platform. Consultants can receive their payments directly to their preferred accounts.
+
+* also provides the possibility of adding an advertisement for Customers-type accounts.
+--->
+
+## 🎥 Demo / Working <a name = "demo"></a>
+
+[Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
+
+# 🎉 About <a name = "about"></a>
+<!--
+General Consultation <a name = "General/Consultation"></a>-->
+ Introducing General Consultation App: Your Gateway to Comprehensive Services and Consultations
+* General Consultation is an innovative digital platform designed to deliver a myriad of consulting services efficiently and conveniently. Our application caters to a diverse array of fields, including health, education, technology, and more, ensuring that users can access a broad spectrum of services to meet their unique needs.
+### Key Features:
+
+- Diverse Range of Services and Consultations:
+General Consultation takes pride in offering an extensive variety of services, providing expert consultations in areas such as health, education, technology, and beyond. This ensures that users can find the guidance they seek across a multitude of fields, addressing their diverse needs.
+
+- User-Friendly Interface for Easy Access:
+We understand the importance of simplicity and ease of use. General Consultation boasts a user-friendly interface, ensuring a seamless experience for users to navigate and access the available services effortlessly. Our intuitive design prioritizes accessibility without unnecessary complexities, allowing users to make informed decisions without any hassle.
+
+- General Consultation is committed to providing a platform that not only meets the diverse needs of users but also prioritizes accessibility and efficiency. Join us on this journey to make consultations and services readily available at your fingertips..
 
 * is an online platform that connects businesses with expert consultants in various fields. Whether you need advice on marketing, finance, strategy, or any other topic, you can find and hire a qualified consultant on General Consultation.
 
@@ -40,16 +69,11 @@
 
 * also provides the possibility of adding an advertisement for Customers-type accounts.
 
-## 🎥 Demo / Working <a name = "demo"></a>
-
-[Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
-
-# 🎉 General Consultation <a name = "General/Consultation"></a>
-
 ## 📢 General Consultation Pages
 ### All Pages
 > [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
+> 
  ###  Authentication sections
 
 | Verify Email | Register | Login |
