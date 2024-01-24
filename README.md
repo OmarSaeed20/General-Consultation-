@@ -6,16 +6,24 @@
 <h1 align="center">General Consultation</h1>
 <!-- ⛏️ 📝 🤖 🧐 🎥 💭 🏁 🚀 ✍️ 🎉 📢 🎈 -->
 
-<!-- <div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+ <div align="center">
+  <a href="https://www.linkedin.com/in/omar-saeed-5a25491ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:omarhamode106@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://wa.me/qr/S75YYDZVP773A1">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="whatsapp Badge"/>
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100074359659144">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 
 </div> 
--->
+ 
 ---
 
 <!-- <p align="center"> 🤖 Few lines describing what your bot does.
