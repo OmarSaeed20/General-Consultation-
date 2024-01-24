@@ -61,16 +61,19 @@ We understand the importance of simplicity and ease of use. General Consultation
 
 > [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
-  
- ###  🏁 Authentication Section
+   
+<details > 
+  <summary><h2>📕 Authentication Section</h2></summary>
 
 | Verify Email | Register | Login |
 | ----- | ----- | ----- |
 | <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 | Verify Email | Forget Password | Reset Password |
 | <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-
-###  🏁 Main Section
+</details>
+ 
+<details > 
+  <summary><h2>🏁 Main Section</h2></summary>
 
 | home | notifications | alert exit app |
 | ----- | ----- | ----- |
@@ -85,16 +88,20 @@ We understand the importance of simplicity and ease of use. General Consultation
 | <img width=350px height=600px src="assets/consultant's advertisements-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/consultant's advertisements-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert hide ads.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 | Subscription packages | account-1 | account-2 |
 | <img width=350px height=600px src="assets/Subscription packages.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/account.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert logout.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-
-###  🏁 Chat Section
+</details>
+ 
+<details open> 
+  <summary><h2> 💭 Chat Section</h2></summary>
 
 | chat-1 | chat-image-1 | chat-image-2 |
 | ----- | ----- | ----- |
 | <img width=350px height=600px src="assets/chat-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-image-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-image-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 | chats | chat-recording-1 | chat-record-2 |
 | <img width=350px height=600px src="assets/chats.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-recording-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-record-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+</details>
 
-###  🏁 Account Section
+<details > 
+  <summary><h2> 🤖 Account Section</h2></summary>
 
 | About App | Change Password | Choose Language |
 | ----- | ----- | ----- |
@@ -103,6 +110,7 @@ We understand the importance of simplicity and ease of use. General Consultation
 | <img width=350px height=600px src="assets/contact us.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/create - edit advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/my advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 | customer Inquiries | ---- | ---- |
 | <img width=350px height=600px src="assets/customer Inquiries.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | | |
+</details>
 
 ## 📢 Application Contents:
 
