@@ -29,22 +29,10 @@
 - [Install / Dependence](#Install/Dependence)
 
 
-<!---##
-- [General Consultation](#General/Consultation)
-🧐 About <a name = "about"></a>
+# 🎥 Demo / Working <a name = "demo"></a>
 
-* is an online platform that connects businesses with expert consultants in various fields. Whether you need advice on marketing, finance, strategy, or any other topic, you can find and hire a qualified consultant on General Consultation.
-
-* offers different subscription plans for businesses and consultants. Businesses can choose from three plans: Basic, Premium, and Enterprise. Each plan gives access to a number of consulting hours per month, as well as other features such as priority support, unlimited projects, and analytics. Consultants can also choose from three plans: Starter, Professional, and Expert. Each plan determines the commission fee, the visibility on the platform, and the eligibility for special projects.
-
-* supports various payment methods, such as One Tap. Businesses can pay for their subscriptions and consulting services securely and conveniently through the platform. Consultants can receive their payments directly to their preferred accounts.
-
-* also provides the possibility of adding an advertisement for Customers-type accounts.
---->
-
-## 🎥 Demo / Working <a name = "demo"></a>
-
-[Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
+> [!TIP]
+> [Demo](https://drive.google.com/file/d/1F4CU4AXsKDfGHhW-8O8lmvTW7sqsgfvO/view?usp=drive_link)
 
 # 🎉 About <a name = "about"></a>
 <!--
@@ -69,32 +57,54 @@ We understand the importance of simplicity and ease of use. General Consultation
 
 * also provides the possibility of adding an advertisement for Customers-type accounts.
 
-## 📢 General Consultation Pages
-### All Pages
+# 📢 General Consultation Pages
+
 > [!TIP]
 > [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
-> 
- ###  Authentication sections
+  
+ ###  🏁 Authentication Section
 
 | Verify Email | Register | Login |
 | ----- | ----- | ----- |
 | <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 | Verify Email | Forget Password | Reset Password |
 | <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| home | notifications | V |
-| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  |
 
+###  🏁 Main Section
 
+| home | notifications | alert exit app |
+| ----- | ----- | ----- |
+| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert exit app.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Categories virtical view | Categories grid view | Filter categories-1 |
+| <img width=350px height=600px src="assets/categories virtical view.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/categories grid view.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Filter categories-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Filter categories-2 | Consultant details-1 | Consultant details-2 |
+| <img width=350px height=600px src="assets/Filter categories-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/Consultant details-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Consultant details-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Consultant details-3 | Consultant details location | consultant's advertisements-1 |
+| <img width=350px height=600px src="assets/Consultant details-3.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/Consultant details location.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Consultant details-4.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| consultant's advertisements-2 | consultant's advertisements-3 | Alert hide ads |
+| <img width=350px height=600px src="assets/consultant's advertisements-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/consultant's advertisements-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert hide ads.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Subscription packages | account-1 | account-2 |
+| <img width=350px height=600px src="assets/Subscription packages.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/account.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert logout.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
 
-<!-- 
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/assets/logo.svg">
-</picture>
- -->
+###  🏁 Chat Section
+
+| chat-1 | chat-image-1 | chat-image-2 |
+| ----- | ----- | ----- |
+| <img width=350px height=600px src="assets/chat-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-image-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-image-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| chats | chat-recording-1 | chat-record-2 |
+| <img width=350px height=600px src="assets/chats.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-recording-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-record-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+
+###  🏁 Account Section
+
+| About App | Change Password | Choose Language |
+| ----- | ----- | ----- |
+| <img width=350px height=600px src="assets/about app.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/change password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/choose language.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| Contact Us | create - edit advertisement | my advertisement |
+| <img width=350px height=600px src="assets/contact us.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/create - edit advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/my advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
+| customer Inquiries | ---- | ---- |
+| <img width=350px height=600px src="assets/customer Inquiries.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | | |
 
 ## 📢 Application Contents:
-
-
 
 * This project is a Realtime Chat application leveraging the power of Pusher. It provides a seamless chat experience with features like realtime messaging, pagination, photo sharing, wave records, and delightful animations.
 
